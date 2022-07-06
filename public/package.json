@@ -16,7 +16,7 @@
     "leaflet": "^1.6.0",
     "mapbox-gl": "^0.53.1",
     "mapbox-gl-leaflet": "0.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "proj4leaflet": "^1.0.2"
   },
   "devDependencies": {
